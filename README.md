@@ -1,0 +1,3 @@
+# KadaiNationView
+
+15ヶ国のリストがあり、クリックすると上部のtextviewに選んだ国名が表示される
